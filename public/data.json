@@ -8,11 +8,11 @@
         },
         "reviews": [
             {
-                "teacherReviews": "467",
+                "reviewNumber": "467",
                 "name": "teacher"
             },
             {
-                "classReviews": "5",
+                "reviewNumber": "5",
                 "name": "class"
             }
         ],

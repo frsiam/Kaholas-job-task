@@ -11,7 +11,7 @@ const Reviews = ({ review }) => {
                     <input type="radio" name="rating-2" className="mask mask-star-2 bg-yellow-400" />
                     <input type="radio" name="rating-2" className="mask mask-star-2 bg-yellow-400" />
                 </div>
-                <h1 className='ml-4 text-sm font-semibold text-slate-400'>{review?.teacherReviews} toal reviews for this {review?.name}</h1>
+                <h1 className='ml-4 text-sm font-semibold text-slate-400'>{review?.reviewNumber} toal reviews for this {review?.name}</h1>
             </div>
         </>
     );
