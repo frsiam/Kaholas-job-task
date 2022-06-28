@@ -6,10 +6,16 @@
             "teacherName": "Kimberly R Moseler",
             "img": "https://i.ibb.co/k8qrPrB/passport-size.jpg"
         },
-        "reviews": {
-            "teacherReviews": "467",
-            "classReviews": "5"
-        },
+        "reviews": [
+            {
+                "teacherReviews": "467",
+                "name": "teacher"
+            },
+            {
+                "classReviews": "5",
+                "name": "class"
+            }
+        ],
         "paintingImages": [
             "https://i.ibb.co/dcc4DYR/room1.png",
             "https://i.ibb.co/f9PgL03/room6.png",
